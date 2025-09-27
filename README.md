@@ -52,7 +52,7 @@ The outputs are then combined and summarized into **three possible health issues
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/chandrikatadiboyina/Medical-Diagnosis-Agent.git
+   git clone https://github.com/yourname/Medical-Diagnosis-Agent.git
    cd Medical-Diagnosis-Agent
    ```
 2. **Create a virtual environment and install dependencies:**
@@ -81,4 +81,5 @@ Planned improvements for upcoming versions include:
 - **Advanced Parsing**: Improve handling of complex medical reports with structured outputs (e.g., JSON schema validation).  
 - **Automated Testing**: Add evaluation pipelines and smoke-test CI with mocked LLM calls for reproducibility.  
 ---
+
 
